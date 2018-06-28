@@ -59,9 +59,9 @@ set.seed(2014)
 ### Load and prepare the data and clean up the data
 
 ```{r Ass_Dir Hide, echo=FALSE}
-data_dir <- "C:/Users/E551910/Desktop/MachineLearning/Practical-Machine-Learning-Peer-Assessment-1";
+data_dir <- "C:/Users/User/Desktop/MachineLearning/Practical-Machine-Learning-Peer-Assessment-1";
 
-pathAnswers <- "C:/Users/E551910/Desktop/MachineLearning/Practical-Machine-Learning-Peer-Assessment-1/"
+pathAnswers <- "C:/Users/User/Desktop/MachineLearning/Practical-Machine-Learning-Peer-Assessment-1/"
 ```
 
 
